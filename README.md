@@ -85,27 +85,27 @@ The mission of this project is to provide a structured, safe, and realistic lab 
 
 2. VM & Host Setup
 
-<img src="VM.png" alt="VM"/>
+<img src="VM.png" width="700px" height="auto" alt="VM"/>
 
 3. PfSense Setup
 
-<img src="Pfsense.png" alt="Pfsense"/>
+<img src="Pfsense.png" width="700px" height="auto" alt="Pfsense"/>
 
 4. Security Onion
 
-<img src="SecOnion.png" alt="SecOnion"/>   
+<img src="SecOnion.png" width="700px" height="auto" alt="SecOnion"/>   
 
 5. Kali Linux
 
-<img src="Kali.png" alt="Kali"/>
+<img src="Kali.png" width="700px" height="auto" alt="Kali"/>
 
 6. Windows Server & Domain Controller
 
-<img src="Windows_server.png" alt="Windows Server"/>
+<img src="Windows_server.png" width="700px" height="auto" alt="Windows Server"/>
 
 7. Splunk Setup
 
-<img src="Splunk.png" alt="Splunk"/>
+<img src="Splunk.png" width="700px" height="auto" alt="Splunk"/>
 </p>
 <br>
 
