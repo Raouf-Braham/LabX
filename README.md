@@ -153,17 +153,17 @@ This project is built with:
 
 3. Create and configure each VM:
 
- • pfSense: Configure interfaces, firewall rules
+    • pfSense: Configure interfaces, firewall rules
+   
+    • Security Onion: IDS/SIEM configuration
 
- • Security Onion: IDS/SIEM configuration
+    • Kali Linux: Set up attack machine
 
- • Kali Linux: Set up attack machine
+    • Windows Server: Promote to Domain Controller
 
- • Windows Server: Promote to Domain Controller
+    • Windows 10: Join to the domain
 
- • Windows 10: Join to the domain
-
- • Ubuntu + Splunk: Install Splunk, configure GUI and indexes
+    • Ubuntu + Splunk: Install Splunk, configure GUI and indexes
 
 4. Connect machines to proper VMnet interfaces
 
