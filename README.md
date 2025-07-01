@@ -81,7 +81,7 @@ The mission of this project is to provide a structured, safe, and realistic lab 
 
 1. Homelab Architecture
 
-<img src="cybersecurity-lab.jpg" alt="Network Architecture"/>
+<img src="cybersecurity-lab.jpg" width="700px" height="auto" alt="Network Architecture"/>
 
 2. VM & Host Setup
 
@@ -108,8 +108,6 @@ The mission of this project is to provide a structured, safe, and realistic lab 
 <img src="Splunk.png" alt="Splunk"/>
 </p>
 <br>
-
-https://github.com/user-attachments/assets/6c08f287-4ade-4eb8-bcee-777adc5163ba
 
 <!-- TechStack -->
 ### Tech Stack
