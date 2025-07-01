@@ -186,15 +186,15 @@ Use this lab to:
 ## Roadmap
  • Add automation scripts for faster VM setup
  
- • Expand with cloud-based integration (e.g., Azure Sentinel)
+ • Expand with cloud-based integration (e.g., Microsoft Sentinel)
  
  • Include Docker-based simulation for constrained environments
 
 <!-- Contributing -->
 ## Contributing
 
-<a href="https://github.com/Raouf-Braham/SecLab/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Raouf-Braham/SecLAb" />
+<a href="https://github.com/Raouf-Braham/LabX/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Raouf-Braham/LabX" />
 </a>
 
 
@@ -206,7 +206,7 @@ See `contributing.md` for ways to get started.
 <!-- Code of Conduct -->
 ### Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Raouf-Braham/HoneyShield/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/Raouf-Braham/LabX/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- License -->
 ## License
@@ -225,10 +225,8 @@ Project Link: [https://github.com/Raouf-Braham/HoneyShield](https://github.com/R
 <!-- Acknowledgments -->
 ## Acknowledgements
 
-• MongoDB — Database for storing logs
+• Thanks to the open-source cybersecurity community for their invaluable tools and resources.
 
-• Plotly / Chart.js — Optional charting libraries
+• Special credit to pfSense, Security Onion, Kali Linux, and Splunk teams.
 
-• Inspired by modern honeypot practices
-
-• All contributors and testers
+• Appreciation to educators and creators who share their knowledge freely.
